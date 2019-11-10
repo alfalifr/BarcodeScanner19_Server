@@ -1,0 +1,18 @@
+# HTID:11242783: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:11242783:
+php_value output_buffering on
+
+#RewriteEngine On
+#RewriteBase /
+#RewriteCond ${REQUEST_URI} !^/src/util/route/Router.php
+#RewriteRule ^(.+)$ /src/util/route/Router.php [QSA,L]
+
+#RewriteCond %{REQUEST_URI} !^/cob/tes.php
+#RewriteRule ^(.+)$ /cob/tes.php [QSA,L]
+
+#REWRITE RULES ARE THE HARDEST PART OF THIS COURSE!!!!
+
+
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME} !-f

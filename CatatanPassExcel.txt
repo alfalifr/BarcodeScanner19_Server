@@ -1,0 +1,14 @@
+=CHAR(RANDBETWEEN(6;90))
+&CHAR(RANDBETWEEN(65;90))
+&RANDBETWEEN(10;99)
+
+LEFT( MID($M$5,RAND()*LEN($M$5)+1,1) & MID($M$5,RAND()*LEN($M$5)+1,1) & 
+
+LEFT( MID($A$1,RAND()*LEN($A$1)+1,1) & MID($A$1,RAND()*LEN($A$1)+1,1) & 
+
+
+=LEFT(MID($M$3;RAND()*LEN($M$3)+1;1) & MID($M$3;RAND()*LEN($M$3)+1;1) &  MID($M$3;RAND()*LEN($M$3)+1;1) & MID($M$3;RAND()*LEN($M$3)+1;1) &      MID($M$3;RAND()*LEN($M$3)+1;1) & MID($M$3;RAND()*LEN($M$3)+1;1) &  MID($M$3;RAND()*LEN($M$3)+1;1) & MID($M$3;RAND()*LEN($M$3)+1;1); RANDBETWEEN(6;10))
+
+=LEFT(MID($M$3;RAND()*LEN($M$3)+1;1) & MID($M$3;RAND()*LEN($M$3)+1;1) &  MID($M$3;RAND()*LEN($M$3)+1;1) & MID($M$3;RAND()*LEN($M$3)+1;1) &      MID($M$3;RAND()*LEN($M$3)+1;1) & MID($M$3;RAND()*LEN($M$3)+1;1) &  MID($M$3;RAND()*LEN($M$3)+1;1) & MID($M$3;RAND()*LEN($M$3)+1;1); RANDBETWEEN(20;25))
+
+=LEFT(MID($G$3;RAND()*LEN($G$3)+1;1) & MID($G$3;RAND()*LEN($G$3)+1;1) &  MID($G$3;RAND()*LEN($G$3)+1;1) & MID($G$3;RAND()*LEN($G$3)+1;1) &      MID($G$3;RAND()*LEN($G$3)+1;1) & MID($G$3;RAND()*LEN($G$3)+1;1) &  MID($G$3;RAND()*LEN($G$3)+1;1) & MID($G$3;RAND()*LEN($G$3)+1;1); RANDBETWEEN(20;25))

@@ -1,0 +1,175 @@
+?djgagak=hwj_x_dloEVpfX!Y.oVa!Xp1I6Pk!9QdQec&!.!1.0O4,7=M4!142&QzD6z=mTwPPU&_j2EgT=zhJDqqu
+
+array(3) {
+["!.!1.0O4,7"]=> string(6) "M4!142"
+["QzD6z"]=> string(6) "mTwPPU"
+["_j2EgT"]=> string(7) "zhJDqqu" }
+
+?djgagak=4C2,YwY*2BCfbWO'pdAckpmfZ0Xy5kDCv,ZP&O'OC'BxA4h=IFA1&mAOCA=Rr!&DI'St8=n07,TTR
+
+array(3) {
+["O'OC'BxA4h"]=> string(6) "HAOCAm"
+["mAOCA"]=> string(6) "RaljjT"
+["DI'St8"]=> string(7) "n07,TTR" 
+}
+
+array(3) {
+["O'OC'BxA4h"]=> string(4) "IFA1"
+["mAOCA"]=> string(3) "Rr!"
+["DI'St8"]=> string(7) "n07,TTR"
+}
+
+
+
+
+$arrayParam= [
+    _Alias::$lain[1] => "tambah",
+    _Alias::$lain[2] => "ICN001",
+    _Alias::$lain[3] => "ITEM001"
+];
+
+===================
+TESTING
+===================
+
+===LOGIN===
+?mwawm=Abidin3&dakseid=abcd >> penscan = Game
+?djgagak=lAdMGqk!PAk*hH7JSGK3jLxL60TjqclHKpz3jaXz*Mk
+
+?mwawm=Abidin&dakseid=abcd >> penscan = Startup
+//?djgagak=hG_$z3VE5EAG0Sg1j_9uI5MIzctANIdhd
+//?djgagak=nj0Hg-aUMjQfA6p8cP7B*uWk_A$X-f2tAyvjdAmDHOaxwGQ
+?djgagak=2EtPuROE2-7nzx60k,pZH6'QEA2t8Qcukzg_d!nTA
+
+===PENUH===
+penscan = Game
+array(5) {
+    ["T4TP4MJL9n"]=> string(4) "bmLr"
+    ["HyXEy"]=> string(3) "97c"
+    ["0O9_GK"]=> string(3) "UTP"
+    ["N1-1-c"]=> string(4) "ljPf"
+    ["djgagak"]=> string(41) "2EtPuROE2-7nzx60k,pZH6'QEA2t8Qcukzg_d!nTA"
+}
+?djgagak=2EtPuROE2-7nzx60k,pZH6'QEA2t8Qcukzg_d!nTA&T4TP4MJL9n=bmLr&HyXEy=97c&0O9_GK=UTP&N1-1-c=ljPf
+
+penscan = Startup
+array(5) {
+    ["C_C0_zeuGF"]=> string(4) "KIuO"
+    ["s3IK3"]=> string(3) "Qmg"
+    ["F8SWx$"]=> string(3) "sQn"
+    ["-KpKpA"]=> string(4) "wPr5"
+    ["djgagak"]=> string(46) "wId6*WFvV,Ezj!wxKa$C'yhxFc00EKuD$!qJcyzKthAxzp"
+}
+?djgagak=wId6*WFvV,Ezj!wxKa$C'yhxFc00EKuD$!qJcyzKthAxzp&C_C0_zeuGF=KIuO&s3IK3=Qmg&F8SWx$=sQn&-KpKpA=wPr5
+
+array(5) {
+    ["OMOCMB0Auh"]=> string(4) "6FAx"
+    ["XChFC"]=> string(3) "s27"
+    ["IUABpm"]=> string(3) "f0e"
+    ["slulup"]=> string(5) "Login", "Item"
+    ["djgagak"]=> string(42) "dX-2QgWkTp'kYFUkEBiCFha9clJ_Xd9r!Lh-ZPPFZn"
+}
+?djgagak=dX-2QgWkTp'kYFUkEBiCFha9clJ_Xd9r!Lh-ZPPFZn&OMOCMB0Auh=6FAx&XChFC=s27&IUABpm=f0e&slulup=Login
+
+===SCAN===
+penscan = Game
+array(5) {
+    ["HyXEy"]=> string(3) "97c"
+}
+?djgagak=2EtPuROE2-7nzx60k,pZH6'QEA2t8Qcukzg_d!nTA&HyXEy=97c
+
+penscan = Startup
+array(5) {
+    ["s3IK3"]=> string(3) "Qmg"
+}
+?djgagak=wId6*WFvV,Ezj!wxKa$C'yhxFc00EKuD$!qJcyzKthAxzp&s3IK3=Qmg
+
+array(5) {
+    ["XChFC"]=> string(3) "s27"
+}
+?djgagak=dX-2QgWkTp'kYFUkEBiCFha9clJ_Xd9r!Lh-ZPPFZn&XChFC=s27
+
+
+===ITEM===
+penscan = Game
+array(5) {
+    ["HyXEy"]=> string(3) "97c"
+    ["0O9_GK"]=> string(3) "UTP"
+}
+?djgagak=2EtPuROE2-7nzx60k,pZH6'QEA2t8Qcukzg_d!nTA&HyXEy=97c&0O9_GK=UTP
+
+penscan = Startup
+array(5) {
+    ["s3IK3"]=> string(3) "Qmg"
+    ["F8SWx$"]=> string(3) "sQn"
+}
+?djgagak=wId6*WFvV,Ezj!wxKa$C'yhxFc00EKuD$!qJcyzKthAxzp&s3IK3=Qmg&F8SWx$=sQn
+
+array(5) {
+    ["XChFC"]=> string(3) "s27"
+    ["IUABpm"]=> string(3) "f0e"
+}
+?djgagak=dX-2QgWkTp'kYFUkEBiCFha9clJ_Xd9r!Lh-ZPPFZn&XChFC=s27&IUABpm=f0e
+
+
+===LIAT===
+penscan = Game
+array(5) {
+    ["N1-1-c"]=> string(4) "ljPf"
+}
+?djgagak=2EtPuROE2-7nzx60k,pZH6'QEA2t8Qcukzg_d!nTA&N1-1-c=ljPf
+
+penscan = Startup
+array(5) {
+    ["-KpKpA"]=> string(4) "wPr5"
+}
+?djgagak=wId6*WFvV,Ezj!wxKa$C'yhxFc00EKuD$!qJcyzKthAxzp&-KpKpA=wPr5
+
+array(5) {
+    ["slulup"]=> string(5) "Login", "Item"
+}
+?djgagak=dX-2QgWkTp'kYFUkEBiCFha9clJ_Xd9r!Lh-ZPPFZn&slulup=Login
+?djgagak=dX-2QgWkTp'kYFUkEBiCFha9clJ_Xd9r!Lh-ZPPFZn&slulup=Item
+
+===LOGOUT===
+?djgagak=8ozLFskUBN366RwYvG-9oedpS,kI4YV2Ue44oejn_8
+
+
+===================
+TESTING - Web
+===================
+
+===LOGIN===
+?mwawm=Abidin3&dakseid=abcd
+?djgagak=5c1LveXlD5B*f_hwovqTH7GQd2TvKQv0Prp2r3
+
+===PENUH===
+array(3) {
+    ["qfqQfborZz"]=> string(4) "A,rs"
+    ["t5Hp5"]=> string(3) "VGM"
+    ["2o3OTv"]=> string(3) "N5z"
+}
+
+//?djgagak=lAdMGqk!PAk*hH7JSGK3jLxL60TjqclHKpz3jaXz*Mk&HqHpq7$5IZ=JS5_&!-Jk-=etT&qcx6y,=Lh*
+?djgagak=5c1LveXlD5B*f_hwovqTH7GQd2TvKQv0Prp2r3&qfqQfborZz=A,rs&t5Hp5=VGM&2o3OTv=N5z
+
+
+===SCAN===
+array(3) {
+    ["t5Hp5"]=> string(3) "VGM"
+}
+
+?djgagak=5c1LveXlD5B*f_hwovqTH7GQd2TvKQv0Prp2r3&t5Hp5=VGM
+
+===ITEM===
+array(3) {
+    ["t5Hp5"]=> string(3) "VGM"
+    ["2o3OTv"]=> string(3) "N5z"
+}
+
+?djgagak=5c1LveXlD5B*f_hwovqTH7GQd2TvKQv0Prp2r3&t5Hp5=VGM&2o3OTv=N5z
+
+
+===LOGOUT===
+//?djgagak=8ozLFskUBN366RwYvG-9oedpS,kI4YV2Ue44oejn_8
+?djgagak=5c1LveXlD5B*f_hwovqTH7GQd2TvKQv0Prp2r3

@@ -1,0 +1,23 @@
+{
+    "name": "user/barcode_scanner_19",
+    "description": "PSR-4 Autoloading",
+    "authors": [
+        {
+            "name": "Aliff",
+            "email": "fathf48@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ise\\": "src/",
+            "ise\\barscan\\util\\": "src/util/",
+            "ise\\barscan\\util\\debug\\": "src/util/debug/",
+            "ise\\barscan\\util\\endpoint\\": "src/util/endpoint/",
+            "ise\\barscan\\util\\route\\": "src/util/route/",
+            "ise\\barscan\\pref\\": "src/pref/",
+            "ise\\barscan\\pref\\model\\": "src/pref/model/",
+            "atk4\\": "lib/atk4/"
+        }
+    }
+}

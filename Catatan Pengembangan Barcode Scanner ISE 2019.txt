@@ -1,0 +1,76 @@
+Catatan Pengembangan Barcode Scanner ISE 2019
+====================
+
+=Alias di server:
+-token >> djgagak => nama param gak pernah dienkrip
+-operasi >> memberlaku
+-tujuan >> hamba
+-item >> indeks
+-liat >> slulup
+//-id_login >> slulup
+-uname >> mwawm
+-pass >> dakseid
+
+==Ket:
+- -- : Catatan penting dalam kode
+- //--BELUM
+
+
+==Server-Side:
+=20 Okt 2019:
+-Sampe ScanHelper.php
+
+=21 Okt 2019:
+-Belum generalisasi ambilParam() & enkripParam()
+
+=22 Okt 2019:
+-Udah selesai Testing
+-Belum menghilangkan Debug::echoe dkk.
+-Belum liat.php
+-.htaccess
+->
+=============
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+
+RewriteCond %{REQUEST_URI} !^/wp-content/uploads/ [OR]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule . /index.php [L]
+</IfModule>
+==============
+
+=23 Okt 2019
+-Deploy ke server
+-Pengaturan DB MySQL
+==DB
+--Nama: iseitsco_barscan
+--Pass: ISE!barscan11
+==User -> Super
+--Nama: iseitsco_barscannerz
+--Pass: ISE!rooterz11_
+--Privil: All
+==User -> User
+--Nama: iseitsco_iconvisitor
+--Pass: ICON!plei1
+--Privil: Select, Insert, Update, Delete, Index, Reference
+
+==Web
+=000webhost.com
+-Name: ise-its
+-pass: ISE!gawat_darurat1
+=DB
+-Nama: id11364222_ise_barscan
+=User
+-Uname: id11364222_iseitsco_iconvisitor (mirip kyk yg di dewaweb)
+-Pass: (sama kyk yg di dewaweb)
+
+
+====Standar ID
+-Peserta: ICNxxxx
+-Item: ITMxxx
+-Peran: PERxx
